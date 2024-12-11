@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"c442bfe76491193a","type":"text","text":"Code","x":-25,"y":-140,"width":250,"height":60,"color":"4"},
+		{"id":"80cb56a64d59feb7","type":"file","file":"Use/Hey.md","x":-680,"y":-110,"width":120,"height":110,"color":"2"},
+		{"id":"af4da70c77f4e654","type":"file","file":"🧭Navigator.md","x":-225,"y":-960,"width":400,"height":400,"color":"#7771d6"},
+		{"id":"a371bc37a2143221","type":"text","text":"Hey ","x":-730,"y":-380,"width":100,"height":60,"color":"2"},
+		{"id":"277ca903e5865170","type":"file","file":"Use/Code.md","x":-120,"y":160,"width":400,"height":400,"color":"4"}
+	],
+	"edges":[
+		{"id":"2ffe0602f6fd77c3","fromNode":"c442bfe76491193a","fromSide":"bottom","toNode":"277ca903e5865170","toSide":"top","color":"4"},
+		{"id":"4ba0da037666a627","fromNode":"a371bc37a2143221","fromSide":"bottom","toNode":"80cb56a64d59feb7","toSide":"top","color":"2"},
+		{"id":"e7e7a4e1556daf9f","fromNode":"af4da70c77f4e654","fromSide":"bottom","toNode":"c442bfe76491193a","toSide":"top","color":"4","label":"Code"},
+		{"id":"36700a8bcd150aa2","fromNode":"af4da70c77f4e654","fromSide":"left","toNode":"a371bc37a2143221","toSide":"top","color":"2","label":"Simple Text"}
+	]
+}

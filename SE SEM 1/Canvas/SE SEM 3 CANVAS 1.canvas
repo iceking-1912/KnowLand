@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"25cac78543fc53c8","x":-710,"y":-800,"width":400,"height":400,"type":"file","file":"SE SEM 3/Business Communication Skills Lab -.md"},
+		{"id":"cda63ee9a60950ab","x":400,"y":369,"width":400,"height":400,"type":"file","file":"SE SEM 3/Data Structures  Laboratory -.md"},
+		{"id":"1d1e7a378ff47bc2","x":-910,"y":-120,"width":400,"height":400,"type":"file","file":"SE SEM 3/Digital Electronics and Logic Design -.md"},
+		{"id":"0bf7b69fd162f507","x":470,"y":-76,"width":400,"height":400,"type":"file","file":"SE SEM 3/Digital Electronics Lab -.md"},
+		{"id":"9ac71ff4385b47b4","x":1800,"y":720,"width":400,"height":400,"type":"file","file":"SE SEM 3/Humanity and Social Science -.md"},
+		{"id":"4c18644d30477f6e","x":840,"y":-1440,"width":600,"height":640,"type":"file","file":"SE SEM 1/SE SEM 1.md"},
+		{"id":"02c31d1e386112d1","x":2200,"y":-876,"width":400,"height":400,"type":"file","file":"SE SEM 3/Discrete Mathematics -.md"},
+		{"id":"e74976e2f7d57df8","x":1800,"y":-800,"width":400,"height":400,"type":"file","file":"SE SEM 3/Object Oriented Programming -.md"},
+		{"id":"432228d1f8829141","x":-130,"y":-1640,"width":400,"height":400,"type":"file","file":"SE SEM 3/OOP and Computer Graphics  Lab -.md"},
+		{"id":"3324467c0f89841c","x":2280,"y":-320,"width":400,"height":400,"type":"file","file":"SE SEM 3/Computer Graphics  -.md"},
+		{"id":"4794b39d3d232e02","x":1800,"y":-276,"width":400,"height":400,"type":"file","file":"SE SEM 3/Fundamentals of Data Structures -.md"}
+	],
+	"edges":[]
+}

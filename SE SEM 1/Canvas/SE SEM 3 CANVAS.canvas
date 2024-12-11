@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"25cac78543fc53c8","type":"file","file":"SE SEM 1/Basic/Business Communication Skills Lab -.md","x":-710,"y":-800,"width":400,"height":400},
+		{"id":"cda63ee9a60950ab","type":"file","file":"SE SEM 1/Data Structures Lab/Data Structures Laboratory -.md","x":400,"y":369,"width":400,"height":400},
+		{"id":"1d1e7a378ff47bc2","type":"file","file":"SE SEM 1/Digital Electronics Lab/Digital Electronics and Logic Design -.md","x":-910,"y":-120,"width":400,"height":400},
+		{"id":"0bf7b69fd162f507","type":"file","file":"SE SEM 1/Digital Electronics Lab/Digital Electronics Lab -.md","x":470,"y":-76,"width":400,"height":400},
+		{"id":"9ac71ff4385b47b4","type":"file","file":"SE SEM 1/Basic/Humanity and Social Science -.md","x":1800,"y":720,"width":400,"height":400},
+		{"id":"02c31d1e386112d1","type":"file","file":"SE SEM 1/Basic/Discrete Mathematics/✧ Discrete Mathematics -.md","x":2200,"y":-876,"width":400,"height":400},
+		{"id":"e74976e2f7d57df8","type":"file","file":"SE SEM 1/OOP and Computer Graphics  Lab -/Object Oriented Programming -.md","x":1800,"y":-800,"width":400,"height":400},
+		{"id":"432228d1f8829141","type":"file","file":"SE SEM 1/OOP and Computer Graphics  Lab -/OOP and Computer Graphics  Lab -.md","x":-130,"y":-1640,"width":400,"height":400},
+		{"id":"3324467c0f89841c","type":"file","file":"SE SEM 1/OOP and Computer Graphics  Lab -/Computer Graphics  -.md","x":2280,"y":-320,"width":400,"height":400},
+		{"id":"4794b39d3d232e02","type":"file","file":"SE SEM 1/Data Structures Lab/Fundamentals of Data Structures -.md","x":1800,"y":-276,"width":400,"height":400},
+		{"id":"4c18644d30477f6e","type":"file","file":"SE SEM 1/SE SEM 1.md","x":760,"y":-1240,"width":600,"height":640}
+	],
+	"edges":[]
+}
